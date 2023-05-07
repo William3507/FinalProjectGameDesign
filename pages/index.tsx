@@ -6,6 +6,8 @@ import useDiscoFloor from "@/hooks/useDiscoFloor";
 
 import controls from "@/data/controls";
 
+import "@fontsource/oswald"
+
 export default function HomePage() {
 
   const {

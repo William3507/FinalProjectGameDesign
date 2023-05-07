@@ -13,6 +13,7 @@
     "@chakra-ui/react": "^2.6.0",
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
+    "@fontsource/oswald": "^4.5.12",
     "@types/node": "18.16.2",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",

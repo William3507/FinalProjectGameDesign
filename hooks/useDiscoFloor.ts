@@ -8,10 +8,10 @@ const useDiscoFloor = () => {
         requestFullscreen,
         unload,
     } = useUnityContext({
-        loaderUrl: "/build/Web.loader.js",
-        dataUrl: "/build/Web.data",
-        frameworkUrl: "/build/Web.framework.js",
-        codeUrl: "/build/Web.wasm"
+        loaderUrl: "/Build/Web.loader.js",
+        dataUrl: "/Build/Web.data",
+        frameworkUrl: "/Build/Web.framework.js",
+        codeUrl: "/Build/Web.wasm"
     });
 
     return {

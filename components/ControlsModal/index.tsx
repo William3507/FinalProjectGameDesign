@@ -29,7 +29,10 @@ const Controls: React.FC<Props> = ({ isOpen, onClose, controls }) => {
           isCentered
       >
           <ModalOverlay />
-          <ModalContent>
+          <ModalContent
+            borderRadius='xl'
+            bg="black"
+          >
               <ModalHeader>
                   <Heading
                       fontSize="lg"
