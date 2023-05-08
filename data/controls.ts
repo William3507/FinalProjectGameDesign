@@ -16,10 +16,6 @@ const controls: Controls[] = [
                 key: '←'
             },
             {
-                name: 'Drop',
-                key: '↓'
-            },
-            {
                 name: 'Right',
                 key: '→'
             }
@@ -28,13 +24,13 @@ const controls: Controls[] = [
     {
         keys: [
             {
-                name: 'Shoot',
-                key: 'Space'
-            },
-            {
-                name: 'Melee',
+                name: 'Sprint',
                 key: 'L. Shift'
             },
+            {
+                name: 'Leave Game',
+                key: 'Escape'
+            }
         ]
     }
 ]
